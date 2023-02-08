@@ -1,17 +1,9 @@
-
-
-[![MasterHead](https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fwww.cloudyml.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fdata-analytics-services-image.gif&imgrefurl=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fcompany-wise-salary-in-data-science-jobs%2F&tbnid=ptFLGEt8mjw9iM&vet=10CBgQxiAoAmoXChMI2O_0ou6G_QIVAAAAAB0AAAAAEA4..i&docid=PfPC610409hw-M&w=770&h=390&itg=1&q=DATA%20SCIENCETISTgif&hl=tr&ved=0CBgQxiAoAmoXChMI2O_0ou6G_QIVAAAAAB0AAAAAEA4)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Murat ÇELEBİ</h1>
 <h3 align="center">Junior Data Scientist</h3>
 
-<img align="right" alt="Coding" width = "400" src="https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fi.giphy.com%2Fmedia%2Fi4jKn7itdV2Tvjzj6Y%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fmedia%2Fi4jKn7itdV2Tvjzj6Y%2F200.webp&tbnid=9Exl0ODjurjKxM&vet=12ahUKEwiQhZOJ7Ib9AhUpY_EDHWGPD8UQxiAoAHoECAAQEQ..i&docid=zpeUWUAerta1BM&w=480&h=270&itg=1&q=animated%20artificial%20intelligence%20gif&ved=2ahUKEwiQhZOJ7Ib9AhUpY_EDHWGPD8UQxiAoAHoECAAQEQ">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratcelebim&label=Profile%20views&color=0e75b6&style=flat" alt="muratcelebim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/muhmuratcelebi?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/muhmuratcelebi?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/muhmuratcelebi?s=09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhmuratcelebi?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/muhmuratcelebi?s=09?logo=twitter&style=for-the-badge" alt="muhmuratcelebi?s=09" /></a> </p>
 
 - 🌱 I’m currently learning **Google Data Analytcs**
 
@@ -31,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhmuratcelebi?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/muhmuratcelebi?s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/muhmuratcelebi?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhmuratcelebi?s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muratcelebi3455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratcelebi3455" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21175690/murat-%c3%87elebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21175690/murat-%c3%87elebi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/clbmurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/clbmurat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/murat-%c3%87elebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="murat-%c3%87elebi" height="30" width="40" /></a>
+<a href="https://kaggle.com/clbmurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="clbmurat" height="30" width="40" /></a>
 <a href="https://instagram.com/muhmuratcelebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhmuratcelebi" height="30" width="40" /></a>
 <a href="https://medium.com/@celebim.murat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@celebim.murat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/murat çelebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="murat çelebi" height="30" width="40" /></a>
@@ -50,9 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcelebim&show_icons=true&locale=en" alt="muratcelebim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratcelebim&" alt="muratcelebim" /></p>
-
-
-
 
 
 
