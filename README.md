@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratcelebim&label=Profile%20views&color=0e75b6&style=flat" alt="muratcelebim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratcelebim" alt="muratcelebim" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/muhmuratcelebi?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/muhmuratcelebi?s=09?logo=twitter&style=for-the-badge" alt="muhmuratcelebi?s=09" /></a> </p>
 
 - 🌱 I’m currently learning **Google Data Analytcs**
@@ -31,7 +29,7 @@
 <a href="https://kaggle.com/clbmurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="clbmurat" height="30" width="40" /></a>
 <a href="https://instagram.com/muhmuratcelebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhmuratcelebi" height="30" width="40" /></a>
 <a href="https://medium.com/@celebim.murat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@celebim.murat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwiveivp55tkaffa0n19jaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwiveivp55tkaffa0n19jaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWiveiVp55TkAfFa0N19jAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwiveivp55tkaffa0n19jaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/celebim_murat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="celebim_murat" height="30" width="40" /></a>
 <a href="https://discord.gg/muratcelebi#0792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muratcelebi#0792" height="30" width="40" /></a>
 </p>
@@ -44,6 +42,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcelebim&show_icons=true&locale=en" alt="muratcelebim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratcelebim&" alt="muratcelebim" /></p>
+
+
 
 
 
